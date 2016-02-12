@@ -83,6 +83,7 @@ def grow_diag(intersection, union, len_e, len_f):
                         align.add(current)
                         #aligned_e.add(i)
                         #aligned_f.add(j)
+                    '''
                     # sandwich
                     if ('{}-{}'.format(i+1,j+1) in intersection) and ('{}-{}'.format(i-1,j-1) in intersection):
                         align.add(current)
@@ -102,6 +103,7 @@ def grow_diag(intersection, union, len_e, len_f):
                         align.add(current)
                         #aligned_e.add(i)
                         #aligned_f.add(j)
+                    '''
         intersection = intersection | align
         if len(align)==0: 
             break
