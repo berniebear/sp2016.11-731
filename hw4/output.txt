@@ -27,11 +27,11 @@
 <s> your room number is three thirty- two . </s>
 <s> where do you like to go ? </s>
 <s> what time is it now ? </s>
-<s> i 'll send it myself . </s>
-<s> certainly . could you give me a receipt ? </s>
-<s> i 'd like to try the local wine . </s>
-<s> we had a <unk> <unk> to discuss the <unk> , is n't it ? </s>
-<s> there is a <unk> there . </s>
+<s> i 'll come . thank you . </s>
+<s> certainly . can i have a receipt ? </s>
+<s> i 'd like to try a different wine . </s>
+<s> we have a <unk> <unk> <unk> , is n't it ? </s>
+<s> there 's a <unk> . </s>
 <s> can i get in here ? </s>
 <s> that salad is also served with a meal . </s>
 <s> do you have a game today ? </s>
@@ -60,10 +60,10 @@
 <s> i 'd like to try these . </s>
 <s> is there anything else else ? </s>
 <s> can i have my seat <unk> ? </s>
-<s> may i bring you a drink ? </s>
-<s> what time is it open ? </s>
-<s> with cream ? </s>
-<s> what time do you open from ? </s>
+<s> can i have a drink ? </s>
+<s> what time does it open ? </s>
+<s> do you accept ketchup ? </s>
+<s> what time do you arrive from ? </s>
 <s> i do n't know how to thank you . </s>
 <s> i 've got a <unk> . </s>
 <s> where was it stolen ? </s>
