@@ -371,18 +371,18 @@
 <s> i can n't find my baggage . </s>
 <s> i 'd like to play golf . </s>
 <s> may i help you ? </s>
-<s> yes , two , two , two , two <unk> , <unk> , <unk> , <unk> , <unk> , and i have enough . </s>
+<s> well , two , two , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> ,
 <s> i 'd like a pair of <unk> . </s>
-<s> take me to the hospital , please . </s>
-<s> i 'm <unk> to <unk> . </s>
-<s> this is my <unk> . </s>
-<s> take me to the hospital , please . </s>
+<s> please show me to the hospital . </s>
+<s> i 'm <unk> . </s>
+<s> this is my <unk> <unk> . </s>
+<s> please show me to the hospital . </s>
 <s> hi . </s>
-<s> your watch is <unk> . </s>
-<s> there are <unk> , <unk> , <unk> and <unk> . </s>
-<s> it 's hot weather , is n't it ? </s>
-<s> yes , please . </s>
-<s> how much is it ? </s>
+<s> your <unk> 's <unk> . </s>
+<s> that 's a <unk> , <unk> and <unk> . </s>
+<s> weather weather is n't hot ? </s>
+<s> all right , please . </s>
+<s> what 's it made ? </s>
 <s> a single room , please . </s>
 <s> to some good places . </s>
 <s> do i have to take the plane ? </s>
@@ -401,22 +401,22 @@
 <s> in fifth , japan , japan . </s>
 <s> tell me the places of visit . </s>
 <s> i can n't see you , this is my seat . </s>
-<s> this is a gift for my personal present . </s>
-<s> i lost my passport in it . </s>
-<s> i 'll order it until tomorrow ? </s>
-<s> i want to go fishing . </s>
-<s> i 'll get up at six thirty a.m. </s>
+<s> this is my present . </s>
+<s> i lost my bags . </s>
+<s> i 'll be here until you here ? </s>
+<s> i 'd like to fish fish . </s>
+<s> wake me up at seven a.m. </s>
 <s> i do n't think so . </s>
 <s> i 'd like some <unk> . </s>
-<s> do you have <unk> ? </s>
-<s> i 'd like to see that <unk> tonight . </s>
-<s> show me the <unk> color this season , please . </s>
-<s> can i <unk> the <unk> ? </s>
-<s> what 's the charge ? </s>
-<s> is lunch included ? </s>
-<s> where can i get a map of this city ? </s>
-<s> tomorrow is a twenty- year 's birthday . </s>
-<s> a japanese bath is a <unk> of the bath in japan . </s>
+<s> do you have <unk> <unk> ? </s>
+<s> i 'd like to see that <unk> . </s>
+<s> please show me the same color in this country . </s>
+<s> can i <unk> this <unk> ? </s>
+<s> what 's the fare ? </s>
+<s> food ? </s>
+<s> where can i get a map ? </s>
+<s> it is a thirty- five years . </s>
+<s> the <unk> in japan is a <unk> <unk> in japan . </s>
 <s> i 'm in <unk> . </s>
 <s> may i sit here ? </s>
 <s> please tell me the way to the station . </s>
